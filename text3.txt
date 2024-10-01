@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-This is test3.txt file 
-=======
- Hi i am dharani dharan.N 
-from salem 
-completed my college at paavi engnieeering college 
->>>>>>> 273f5b2009b88cf105406b6b16761a6c9f6cd463
+
+This is test3.txt file
